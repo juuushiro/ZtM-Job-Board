@@ -13579,5 +13579,21 @@ export const data = {
         country: "Egypt",
       },
     },
+    {
+      id: uuidv4(),
+      name: "Tiago Silva",
+      img: "http://prntscr.com/t8r9rc",
+      links: {
+        website: "https://www.facebook.com/skipperinsan3/",
+        linkedin: "https://www.linkedin.com/in/tiago-silva-b7711b1b1/",
+        github: "https://github.com/juuushiro",
+      },
+      jobTitle: "Web, react, root, javascript",
+      location: {
+        city: "Angra do Heroismo",
+        state: "Azores",
+        country: "Portugal",
+      },
+    },
   ],
 }
